@@ -30,7 +30,7 @@
 		<dc:title id="title">Henry V</dc:title>
 		<meta property="title-type" refines="#title">main</meta>
 		<meta property="file-as" refines="#title">Henry V</meta>
-		<dc:title id="title-alternate>The Life of King Henry the Fifth</dc:title>
+		<dc:title id="title-alternate">The Life of King Henry the Fifth</dc:title>
 		<meta property="title-type" refines="#title">alternate</meta>
 		<meta property="file-as" refines="#title">Life of Henry the Fifth, The</meta>
 		<dc:subject id="subject-1">Henry V, King of England, 1387-1422 -- Drama</dc:subject>
@@ -108,12 +108,12 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="dramatis-personae.xhtml"/>
 		<itemref idref="act-1.xhtml"/>
 		<itemref idref="act-2.xhtml"/>
 		<itemref idref="act-3.xhtml"/>
 		<itemref idref="act-4.xhtml"/>
 		<itemref idref="act-5.xhtml"/>
-		<itemref idref="dramatis-personae.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
