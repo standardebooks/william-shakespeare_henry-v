@@ -45,8 +45,8 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85061150</meta>
-		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Shakepeare’s 1599 play chronicling the history of King Henry the Fifth and his famous victory over the French at the Battle of Agincourt.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Written by William Shakespeare around 1599, &lt;i&gt;The Life of Henry the Fifth&lt;/i&gt;, more commonly known as &lt;i&gt;Henry V&lt;/i&gt;, chronicles the later history of King Henry the Fifth of England and his efforts during Hundred Years’ War to reclaim disputed territories in France. The play starts with Henry’s claims to to be the rightful heir to the French throne and, after his invasion of France, culminates with his famous and improbable victory at the Battle of Agincourt and the negotiation of the Treaty of Troyes.&lt;/p&gt;
