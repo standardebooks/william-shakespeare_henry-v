@@ -51,11 +51,12 @@
 			&lt;p&gt;Written by &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;William Shakespeare&lt;/a&gt; around 1599, &lt;i&gt;The Life of Henry the Fifth&lt;/i&gt;, more commonly known as &lt;i&gt;Henry V&lt;/i&gt;, chronicles the later history of King Henry the Fifth of England and his efforts during Hundred Years’ War to reclaim disputed territories in France. The play starts with Henry’s claims to be the rightful heir to the French throne and, after his invasion of France, culminates with his famous and improbable victory at the Battle of Agincourt and the negotiation of the Treaty of Troyes.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Henry V&lt;/i&gt; is believed to have been first performed in 1599 and first appears in a “bad” quarto in 1600, so-called because it contains a shortened version, likely unauthorized and potentially just based on a performance. This quarto was republished again in 1602 by a different printer and again in 1619. The first definitive text is the version published in the 1623 &lt;i&gt;First Folio&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;The play is the last part of a series of four history plays written by Shakespeare, including &lt;i&gt;Richard II&lt;/i&gt;, &lt;i&gt;Henry IV, Part 1&lt;/i&gt;, and &lt;i&gt;Henry IV, Part 2&lt;/i&gt; and many of characters like Henry (who appears as a wild young Hal in the &lt;i&gt;Henry IV&lt;/i&gt;s), Pistol, Bardolph, and Mistress Quickly would have therefore been familiar to the audience. It contains some of Shakespeare’s most memorable lines and is often held up as a powerful portrayal of inspirational leadership.&lt;/p&gt;
+			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1521</dc:source>
-		<dc:source>https://archive.org/details/kinghenryvedbyaw00shakuoft</dc:source>
-		<meta property="se:production-notes">The main text was based on the PG version with additional stage directions taken from the A. W. Verity's 1905 Cambridge edition (marked by square brackets). In cases where the scanned text varies from the PG version I have stuck with PG.</meta>
+		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
+		<meta property="se:production-notes">The main text is based on the PG edition and revised to match the 1887 Victoria edition.</meta>
 		<meta property="se:word-count">28552</meta>
 		<meta property="se:reading-ease.flesch">79.8</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Henry_V_(play)</meta>
