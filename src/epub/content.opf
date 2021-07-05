@@ -34,6 +34,8 @@
 		<dc:title id="title-alternate">The Life of King Henry the Fifth</dc:title>
 		<meta property="title-type" refines="#title-alternate">alternate</meta>
 		<meta property="file-as" refines="#title-alternate">Life of Henry the Fifth, The</meta>
+		<meta property="se:alternate-title" refines="#title">Henry the 5th</meta>
+		<meta property="se:alternate-title" refines="#title">Henry the Fifth</meta>
 		<dc:subject id="subject-1">Henry V, King of England, 1387-1422 -- Drama</dc:subject>
 		<dc:subject id="subject-2">Great Britain -- Kings and rulers -- Drama</dc:subject>
 		<dc:subject id="subject-3">Great Britain -- History -- Henry V, 1413-1422 -- Drama</dc:subject>
@@ -46,6 +48,12 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85061150</meta>
+		<meta id="collection-2" property="belongs-to-collection">The Henriad</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">4</meta>
+		<meta id="collection-2" property="belongs-to-collection">Shakespeare’s Second Tetralogy</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">4</meta>
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">Shakespeare’s 1599 play chronicling the history of King Henry the Fifth and his famous victory over the French at the Battle of Agincourt.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
