@@ -33,8 +33,8 @@
 		<dc:title id="title-alternate">The Life of King Henry the Fifth</dc:title>
 		<meta property="title-type" refines="#title-alternate">alternate</meta>
 		<meta property="file-as" refines="#title-alternate">Life of Henry the Fifth, The</meta>
-		<meta property="dcterms:alternate" refines="#title">Henry the 5th</meta>
-		<meta property="dcterms:alternate" refines="#title">Henry the Fifth</meta>
+		<meta property="dcterms:alternative" refines="#title">Henry the 5th</meta>
+		<meta property="dcterms:alternative" refines="#title">Henry the Fifth</meta>
 		<dc:subject id="subject-1">Henry V, King of England, 1387-1422 -- Drama</dc:subject>
 		<dc:subject id="subject-2">Great Britain -- Kings and rulers -- Drama</dc:subject>
 		<dc:subject id="subject-3">Great Britain -- History -- Henry V, 1413-1422 -- Drama</dc:subject>
